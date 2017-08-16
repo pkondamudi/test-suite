@@ -114,3 +114,4 @@ SingleSource Tests: llvm-test/SingleSource/Benchmarks/Misc
                     llvm-test/SingleSource/Gizmos
                     llvm-test/SingleSource/Benchmarks/SmallPT
 zlib:               llvm-test/MultiSource/Applications/ClamAV/zlib_*
+RSBench:            llvm-test/MultiSource/Benchmarks/DOE-ProxyApps-C/RSBench
